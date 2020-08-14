@@ -18,12 +18,10 @@ Este fenómeno ha sido objeto de estudio debido a la actual pandemia causada por
       </div>
       <div class="col-12 col-md-6 ml-md-auto mt-4 mt-md-0">
         <img alt="image" class="img-fluid" src="./imgs/shapes/2.svg">
-      </div>
-    </div>
   </div>
 </section>
 
 
 
 
-<a href="https://www.froala.com">World of Grammar</a>.</p> LINK
+<a href="https://www.froala.com">World of Grammar</a>.</p> 
