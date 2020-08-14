@@ -20,8 +20,3 @@ Este fenómeno ha sido objeto de estudio debido a la actual pandemia causada por
         <img alt="image" class="img-fluid" src="./imgs/shapes/2.svg">
   </div>
 </section>
-
-
-
-
-<a href="https://www.froala.com">World of Grammar</a>.</p> 
