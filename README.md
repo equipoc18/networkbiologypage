@@ -28,7 +28,7 @@
 Este fenómeno ha sido objeto de estudio debido a la actual pandemia causada por el SARS-COV-2, los investigadores han identificado proteínas que parecen ser objetivo de este coronavirus. </p>
       </div>
       <div class="col-12 col-md-6 ml-md-auto mt-4 mt-md-0">
-        <img alt="image" class="img-fluid" src="./imgs/shapes/2.svg">
+        <![](/virus.png)>
       </div>
     </div>
   </div>
