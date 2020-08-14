@@ -1,4 +1,4 @@
-# <H1 align="center"> Network Biology </H1>
+# Network Biology
 ## Cuantificar propiedades de redes de interacción de proteínas
 
 <section class="fdb-block">
